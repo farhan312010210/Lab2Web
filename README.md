@@ -27,3 +27,9 @@ Pada point yang kedua saya akan menambahkan deklarasi CSS internal seperti berik
 selanjutnya kita akan menambahkan Inline CSS
 
 ![Menambahkan Inline CSS](screenshoot/Menambahkaninlinecase.JPG)
+
+4.**Membuat CSS Eksternal**
+
+pada point nomor 4 kita akan membuat css eksternal
+
+![Membuat CSS Eksternal](screenshoot/membuatcsseksternal.JPG)
