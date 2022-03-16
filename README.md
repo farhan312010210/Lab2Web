@@ -18,4 +18,5 @@ Kelas   : TI.20.B1
 
 Pada point yang kedua saya akan menambahkan deklarasi CSS internal seperti berikut ini
 
-![Mendeklarasi CSS Internal](screenshoot/mendeklarasicssinternal.JPG)
+![Mendeklarasi CSS Internal](screenshoot/Mendeklarasiinternal1.JPG)
+
