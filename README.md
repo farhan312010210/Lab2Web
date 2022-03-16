@@ -33,3 +33,8 @@ selanjutnya kita akan menambahkan Inline CSS
 pada point nomor 4 kita akan membuat css eksternal
 
 ![Membuat CSS Eksternal](screenshoot/membuatcsseksternal.JPG)
+
+5.**MENAMBAHKAN CSS SELECTOR**
+
+Beginilah tampilan akhir setelah kita tambahkan CSS Selector
+![Menambahkan CSS Selector](screenshoot/menambahkancssselector.JPG)
