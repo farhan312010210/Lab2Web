@@ -16,7 +16,14 @@ Kelas   : TI.20.B1
 
 2.**MENDEKLARASI CSS INTERNAL**
 
+
 Pada point yang kedua saya akan menambahkan deklarasi CSS internal seperti berikut ini
 
 ![Mendeklarasi CSS Internal](screenshoot/Mendeklarasiinternal1.JPG)
 
+
+3.**MENAMBAHKAN INLINE CSS**
+
+selanjutnya kita akan menambahkan Inline CSS
+
+![Menambahkan Inline CSS](screenshoot/Menambahkaninlinecase.JPG)
